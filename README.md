@@ -1,0 +1,1 @@
+# Design-of-FSM-to-detect-the-sequence-1011-using-Verilog
